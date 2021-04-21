@@ -1,6 +1,6 @@
 Hello World
 
-［link］(http://tuins.ac.jp/)
+[link](http://tuins.ac.jp/)
 
 # tab
 class Hoge
