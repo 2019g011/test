@@ -14,7 +14,17 @@ end
 
 
 -list1
- -nest1
+ -nest list1_1
+  -nest list1_1_1
+  -nest list1_1_2
+ -nest list1_2
+-list2
+-list3
+
+normal*italic*normal
+normal_italic_normal
+
+  
 
 <d1>
   <dt>りんご</dt>
