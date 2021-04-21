@@ -7,7 +7,7 @@ Hello World
 
 <d1>
   <dt>りんご</dt>
-  <dt>赤いフルーツ</dd>
+  <dd>赤いフルーツ</dd>
   <dt>オレンジ</dt>
   <dd>橙色のフルーツ</dd>
  </d1>
