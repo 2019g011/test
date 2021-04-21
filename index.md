@@ -14,7 +14,7 @@ end
 - list1
  - nest list1_1
   - nest list1_1_1
-  -　nestnest list1_1_2
+  - nest list1_1_2
  -　nest list1_2
 - list2
 - list3
