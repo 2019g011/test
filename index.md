@@ -18,7 +18,7 @@ end
   - nest list1_2
 - list2
 - list3
- normal**bold**normal　
+ normal**bold**normal  
  normal__bold__normal　
 
   
