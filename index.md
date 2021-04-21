@@ -36,7 +36,7 @@ end
 [google]:http://www.google.co.jp/  
 ~~取り消し線~~  
 
-|header|header2|header3|  
+|header1|header2|header3|  
 |:- -|-- :|: - - :|
 |align left|align right|align center|
 |a|b|c|
