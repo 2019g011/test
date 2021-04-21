@@ -18,9 +18,8 @@ end
   - nest list1_2
 - list2
 - list3
-
- ormal**bold**normal　
-  ormal__bold__normal　
+ normal**bold**normal　
+ normal__bold__normal　
 
   
 
