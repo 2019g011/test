@@ -19,8 +19,8 @@ end
 - list2
 - list3
 
-normal**italic**normal
-normal__italic__normal
+normal**bold**normal
+normal__bold__normal
 
   
 
