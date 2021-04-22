@@ -49,7 +49,7 @@ end
 * [to tab1](#tab1)  
 * [to tab2](#tab2)  
 
-[1.データサイエンス] (https://www.youtube.com/)
+[youtube] (https://www.youtube.com/)  
 2.
 
 
