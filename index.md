@@ -46,8 +46,8 @@ end
 |a|b|c|  
 
 ##menu  
-* [to header1](#tab1)  
-* [to header2](#header2)  
+* [to tab1](#tab1)  
+* [to tab2](#tab2)  
 
 
 
