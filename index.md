@@ -34,9 +34,9 @@ end
   <dd>橙色のフルーツ</dd>
  </d1>
 
-[こっちからgoogle][google]
-その他文章
-[こっちからもgoogle][google]
+[こっちからgoogle][google]  
+その他文章  
+[こっちからもgoogle][google]  
 [google]:http://www.google.co.jp/  
 ~~取り消し線~~  
 
