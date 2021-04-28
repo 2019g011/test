@@ -53,7 +53,7 @@ end
 
 [2019g011](http://github.com/2019g011/index.md)
 
-scoop install hugo
+
 
 
 
