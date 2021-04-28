@@ -53,8 +53,9 @@ end
 
 [2019g011](http://github.com/2019g011/index.md)
  
-brew install hugo
+choco install hugo -confirm
 
+choco install hugo -confirm
 
 
 
