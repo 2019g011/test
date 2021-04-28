@@ -52,12 +52,8 @@ end
 [youtube](https://www.youtube.com/)  
 
 [2019g011](http://github.com/2019g011/index.md)
- 
-choco install hugo -confirm
 
-choco install hugo -confirm
-
-
+scoop install hugo
 
 
 
