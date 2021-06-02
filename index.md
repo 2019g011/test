@@ -58,3 +58,39 @@
 + Reducing false positive identifications for proteome datasets accumulated in jPOST repository
   + *Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Yuki Moriya, Shin Kawano, Shujiro Okuda, Yu Watanabe, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Naoyuki Sugiyama, Satoshi Tanaka, Susumu Goto, and Yasushi Ishihama
   + 16th Human Proteome Organization World Congress,  17-21 September 2017, Dublin (Ireland) [Poster]
+
++ Development of integrated proteomics database: jPOST
+  + *Yuki Moriya, Shin Kawano, Shujiro Okuda, Yu Watanabe, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Naoyuki Sugiyama, Satoshi Tanaka, Susumu Goto, and Yasushi Ishihama
+  + 16th Human Proteome Organization World Congress,  17-21 September 2017, Dublin (Ireland) [Poster]
+
++ プロテオームデータの標準化とデータベースの世界動向
+  + *河野　信
+  + 日本プロテオーム学会2017年大会、2017.7.26-28、ホテル阪急エキスポパーク（大阪） [口頭]
+
++ jPOST 再解析プロトコル:偽陽性と偽陰性の同時減少を目指す
+  + *吉沢　明康、田畑　剛、守屋　勇樹、河野　信、奥田　修二郎、渡辺　由、山本　格、松本　雅記、高見　知代、小林　大樹、荒木　令江、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + 日本プロテオーム学会2017年大会、2017.7.26-28、ホテル阪急エキスポパーク（大阪） [招待]
+
++ プロテオーム統合データベース jPOST:質量分析データ・リポジトリ
+  + *奥田　修二郎、*渡辺　由、守屋　勇樹、河野　信、山本　格、松本　雅記、高見　知代、小林　大樹、荒木　令江、吉沢　明康、田畑　剛、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + 日本プロテオーム学会2017年大会、2017.7.26-28、ホテル阪急エキスポパーク（大阪） [ポスター]
+
++ jPOST: プロテオーム統合データベースの開発
+  + *守屋　勇樹、河野　信、奥田　修二郎、渡辺　由、山本　格、松本　雅記、高見　知代、小林　大樹、荒木　令江、吉沢　明康、田畑　剛、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + 日本プロテオーム学会2017年大会、2017.7.26-28、ホテル阪急エキスポパーク（大阪） [ポスター]
+
++ Controlling false discovery rate in accumulated public proteome dataset
+  + *Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Yuki Moriya, Shin Kawano, Shujiro Okuda, Yu Watanabe, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Naoyuki Sugiyama, Satoshi Tanaka, Susumu Goto, and Yasushi Ishihama
+  + 65th Conference on Mass Spectrometry and Allied Topics, 4-8 June 2017, Indianapolis (USA) [Poster]
+
++ OmicsDI RDF
+  + *Shin Kawano, Yasset Perez Riverol, Tobias Ternent, Yuki Moriya, Michel Dumontier, Eric Deutsch, Juan Antonio Vizcaino, and Susumu Goto
+  + HUPO-PSI meeting 2017, 24-26 April 2017, Beijing (China) [Poster]
+
++ jPOST: Proteome Database Project in Japan
+  + *Shin Kawano, Yuki Moriya, Shujiro Okuda, Yu Watanabe, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Susumu Goto, and Yasushi Ishihama
+  + HUPO-PSI meeting 2017, 24-26 April 2017, Beijing (China) [Poster]
+
++ jPOSTrepo: Standard repository for proteome
+  + *Shin Kawano, Yuki Moriya, Shujiro Okuda, Yu Watanabe, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Susumu Goto, and Yasushi Ishihama
+  + HUPO-PSI meeting 2017, 24-26 April 2017, Beijing (China) [Poster]
