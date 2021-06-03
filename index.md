@@ -1,7 +1,7 @@
- ###  2017年（*発表者）
+ ### 2017年（*発表者）
 + TogoTable: 表形式データにアノテーションを付加するウェブツール
-  + *河野　信、渡辺　敦、水口　惣平、荒木　令江、片山　俊明、山口　敦子
-  + 日本プロテオーム学会2015年大会、2015.7.23-24、熊本[ポスター]
+   + *河野　信、渡辺　敦、水口　惣平、荒木　令江、片山　俊明、山口　敦子
+   + 日本プロテオーム学会2015年大会、2015.7.23-24、熊本[ポスター]
  
 + Integrated search for multi-omics data using extended GA4GH Genomics API
   + *Shin Kawano, Yutaka Suzuki, Sumio Sugano
