@@ -94,3 +94,15 @@
 + jPOSTrepo: Standard repository for proteome
   + *Shin Kawano, Yuki Moriya, Shujiro Okuda, Yu Watanabe, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Susumu Goto, and Yasushi Ishihama
   + HUPO-PSI meeting 2017, 24-26 April 2017, Beijing (China) [Poster]
+
+### 2016年（*発表者）
++ 生命システムを俯瞰するための質量分析情報解析技術とデータベースの活用
+  +  *河野　信
+  +  第39回日本分子生物学会年会、2016.11.30-12.2、横浜 [口頭]
+
++ [[jPOST|http://jpost.org/]]: プロテオームデータベースプロジェクト
+  + *守屋　勇樹、河野　信、奥田　修二郎、山本　格、松本　雅記、小林　大樹、荒木　令江、吉沢　明康、五斗　進、田畑　剛、杉山　直幸、石濱　泰
+  + 第39回日本分子生物学会年会、2016.11.30-12.2、横浜 [ポスター]
+
++ 
+
