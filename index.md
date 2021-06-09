@@ -783,7 +783,167 @@
 
 ___
 
+### 2020年（*発表者）
++ An extension of Mass++ ver.4, a data viewer, for proteome analysis
+  +*Satoshi Tanaka, Masaki Murase, Masaki Kato, Tsuyoshi Tabata, Maiko Kusano, Shin Kawano, Susumu Goto, Yasushi Ishihama, and Akiyasu C. Yoshizawa
+  + 68th American Society for Mass Spectrometry (ASMS) Conference, 2020.5.31-6.4, Houston (USA) [Poster]
 
++ Journal of Proteome Data and Methods: Promotion of proteomic data sharing through a specialized data journal
+  + *Shin Kawano, Shujiro Okuda, Masaki Matsumoto, and Yasushi Ishihama
+  + HUPO-PSI meeting 2020, 2020.3.23-26, San Diego (USA) [Poster]
+
++ Spectral Library Format: A standard format to exchange/distribute spectral libraries/archives
+  + *Ralf Gabriels, Nuno Bandeira, Wout Bittremieux, Jeremy Carver, Matthew Chambers, Shin Kawano, Henry Lam, Tytus Mak, Yasset Perez-Riverol, Benjamin J. Pullman, Vagisha Sharma, Jim Shofstahl, Tim Van Den Bossche, Juan Antonio Vizcaino, Yunping Zhu, and Eric W. Deutsch
+  + EuBIC 2020 Developers’ Meeting, 2020.1.13-17, Nyborg (Denmark) [Poster]
+
+### 2019年（*発表者）
++  jPOSTプロテオームデータベースとオミクス連携
+  + *Susumu Goto, Yuki Moriya, Shin Kawano, Shujiro Okuda, Yu Watanabe, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Yoshinori Yamanouchi, Norie Araki, Akiyasu C. Yoshizawa, Tsuyoshi Tabata,  Mio Iwasaki, Naoyuki Sugiyama, Satoshi Tanaka, and Yasushi Ishihama
+  + 第42回日本分子生物学会年会、2019.12.3-6、福岡国際会議場（福岡） [口頭]
+
++ 深層学習を用いたペプチド由来質量分析イオンピークの検出法の開発
+  + *守屋　勇樹、田畑　剛、岩崎　未央、河野　信、五斗　進、石濱　泰、瀧川　一学、吉沢　明康
+  + 第42回日本分子生物学会年会、2019.12.3-6、福岡国際会議場（福岡） [ポスター]
+
++ jPOST統合環境の機能深化と連携基盤強化
+  + *守屋　勇樹、河野　信、奥田　修二郎、渡辺　由、松本　雅記、高見　知代、小林　大樹、山ノ内　祥訓、荒木　令江、吉沢　明康、田畑　剛、岩崎　未央、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + トーゴーの日シンポジウム2019、2019.10.5、日本科学未来館（東京） [ポスター]
+
++ Promotion of proteomic data sharing through a specialized data journal
+  + *Shin Kawano, Shujiro Okuda, Masaki Matsumoto, Yasushi Ishihama
+  + 18th Human Proteome Organization World Congress, 2019.9.15-19, Adelaide (Australia) [Poster]
+
++ Mass++ ver.4: an open-source, simple and extensible MS data viewer
+  + *Satoshi Tanaka, Masaki Murase, Masaki Kato, Tsuyoshi Tabata, Maiko Kusano, Shin Kawano, Susumu Goto, Yasushi Ishihama, and Akiyasu C Yoshizawa
+  + 18th Human Proteome Organization World Congress, 2019.9.15-19, Adelaide (Australia) [Poster]
+
++  SPARQLと配列クラスターを用いたアノテーション支援ツールの開発
+  + *吉沢　明康、守屋　勇樹、河野　信、小林　大樹、荒木　令江、五斗　進、石濱　泰
+  + 第8回生命医薬情報学連合大会(IIBMP2019)、2019.9.9-11、東京工業大学大岡山キャンパス（東京） [ポスター]
+
++ Privacy-preserving Search for Sharing Genetic Variants
+  + *Masanobu Jimbo, Nobutaka Mitsuhashi, Shigeo Mitsunari, Shin Kawano, Toshiaki Katayama, Kiyoshi Asai and Kana Shimizu
+  + 27th Conference on Intelligent Systems for Molecular Biology and the 18th European Conference on Computational Biology (ISMB/ECCB) 2019, 2019.7.21-25, Basel (Switzerland) [Poster]
+
++ Proteomics Standards Initiative (PSI) Universal Spectrum Identifier (USI)
+  + *Eric Deutsch, Juan Antonio Vizcaino, Yasset Perez-Riverol, Jeremy Carver, Benjamin Pullman, Shin Kawano, Zhi Sun, Luis Mendoza, Pierre-Alain Binz, Gerben Menschaert, and Nuno Bandeira
+  + 67th American Society for Mass Spectrometry (ASMS) Conference, 2019.6.2-6, Atlanta (USA) [Poster]
+
++ 深層学習に基づくペプチド由来イオンピークの新規検出手法
+  + *守屋　勇樹、田畑　剛、岩崎　未央、河野　信、五斗　進、石濱　泰、瀧川　一学、吉沢　明康
+  + 第67回質量分析総合討論会、2019.5.15-17、つくば国際会議場（つくば） [招待]
+ 
+### 2018年（*発表者）
++  jPOSTプロジェクトが提供するプロテオミクスデータとその解析ツール
+  + *五斗　進、守屋　勇樹、河野　信、奥田　修二郎、渡邉　由、松本　雅記、高見　知代、小林　大樹、山ノ内　祥訓、荒木　令江、吉沢　明康、田畑　剛、岩崎　未央、杉山　直幸、田中　聡、石濱　泰
+  + 第41回日本分子生物学会年会、2018.11.28-30、パシフィコ横浜、横浜 [招待]
+
++ プロテオーム統合データベースの機能深化
+  + *守屋　勇樹、河野　信、奥田　修二郎、渡邉　由、松本　雅記、高見　知代、小林　大樹、山ノ内　祥訓、荒木　令江、吉沢　明康、田畑　剛、岩崎　未央、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + 第41回日本分子生物学会年会、2018.11.28-30、パシフィコ横浜、横浜 [ポスター]
+
++ 機械学習に基づくペプチド由来イオンピークの新規検出手法
+  + *守屋　勇樹、田畑　剛、岩崎　未央、河野　信、五斗　進、石濱　泰、瀧川　一学、吉沢　明康
+  + 第21回情報論的学習理論ワークショップ、2018.11.5-7、かでる2.7、札幌 [ポスター]
+
++ jPOST統合環境の開発
+  + *奥田　修二郎、渡辺　由、守屋　勇樹、河野　信、松本　雅記、高見　知代、小林　大樹、山ノ内　祥訓、荒木　令江、吉沢　明康、田畑　剛、岩崎　未央、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + トーゴーの日シンポジウム2018、2018.10.5、日本科学未来館、東京 [ポスター]
+
++ Mass++ ver.4: an open-source, quick and simple data viewer
+  + *Satoshi Tanaka, Masaki Murase, Tsuyoshi Takahashi, Masaki Kato, Maiko Kusano, Shin Kawano, Akiyasu C. Yochizawa, Susumu Goto, and Yasushi Ishihama
+  + 66th American Society for Mass Spectrometry (ASMS) Conference, 2018.6.3-7, San Diego (USA) [Poster]
+
++ jPOST: 質量分析生データを最大限に活用するためのメタデータキュレーション
+  + *小林　大樹、荒木　令江、奥田　修二郎、渡辺　由、守屋　勇樹、河野　信、山本　格、松本　雅記、高見　知代、吉沢　明康、田畑　剛、岩崎　未央、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + Mass Spectrometry and Proteomics 2018、2018.5.15-18、ホテル阪急エキスポパーク、大阪 [ポスター]
+
++ HUPO-PSI最新報告
+  + *河野　信
+  + 第3回質量分析インフォマティクス研究会ワークショップ、2018.4.23、JST東京本部別館、東京 [口頭]
+
+### 2017年（*発表者）
++  jPOST: Integrated database for proteomes
+  + *奥田　修二郎、渡辺　由、守屋　勇樹、河野　信、山本　格、松本　雅記、高見　知代、小林　大樹、荒木　令江、吉沢　明康、田畑　剛、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + 2017年度生命科学系学会合同年次大会、2017.12.6-9、神戸ポートアイランド、神戸 [ポスター]
+
++  jPOST: Development of reanalysis protocol toward control of false discovery rate in peptide identification
+  + *吉沢　明康、田畑　剛、守屋　勇樹、河野　信、奥田　修二郎、渡辺　由、山本　格、松本　雅記、高見　知代、小林　大樹、荒木　令江、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + 2017年度生命科学系学会合同年次大会、2017.12.6-9、神戸ポートアイランド、神戸 [ポスター]
+
++ jjPOST:Development of proteome database
+  + *守屋　勇樹、河野　信、奥田　修二郎、渡辺　由、山本　格、松本　雅記、高見　知代、小林　大樹、荒木　令江、吉沢　明康、田畑　剛、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + 2017年度生命科学系学会合同年次大会、2017.12.6-9、神戸ポートアイランド、神戸 [ポスター]
+
++ GA4GH Genomics APIを用いたマルチオミクスデータ統合検索
+  + *河野　信、鈴木　穣、菅野　純夫
+  + 日本人類遺伝学会第62回大会、2017.11.15-18、神戸国際会議場、神戸 [ポスター]
+
++ Integrated search for multi-omics data using extended GA4GH Genomics API
+  + *Shin Kawano, Yutaka Suzuki, Sumio Sugano
+  + ASHG2017,  17-21 October 2017, Orlando (USA) [Poster]
+
++ GA4GH Genomics API によるマルチオミクスデータ統合検索
+  + *河野　信、鈴木　穣、菅野　純夫
+  + トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
+
++ 寄託データを対象とした秘匿検索の試験的実装
+  + *河野　信
+  + トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
+
++ 各種レポジトリに登録されたメタデータを収集した OmicsDI の RDF 化
+  + *河野　信、Yasset Perez Riverol, Tobias Ternent, 守屋　勇樹, Eric Deutsch, Michel Dumontier, Juan Antonio Vizcaino, Henning Hermjakob, 五斗　進
+  + トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
+
++ jPOST：プロテオーム統合データベースプロジェクト
+  + *奥田　修二郎、渡辺　由、守屋　勇樹、河野　信、山本　格、松本　雅記、高見　知代、小林　大樹、荒木　令江、吉沢　明康、田畑　剛、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
+
++  jPOST: メタデータのキュレーション
+  + *小林　大樹、荒木　令江、奥田　修二郎、渡辺　由、守屋　勇樹、河野　信、山本　格、松本　雅記、高見　知代、吉沢　明康、田畑　剛、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
+
++  jPOST：再解析プロトコルによる同定結果の質的向上
+  + *吉沢　明康、田畑　剛、守屋　勇樹、河野　信、奥田　修二郎、渡辺　由、山本　格、松本　雅記、高見　知代、小林　大樹、荒木　令江、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
+
++ jPOST データベースの開発
+  + *守屋　勇樹、河野　信、奥田　修二郎、渡辺　由、山本　格、松本　雅記、高見　知代、小林　大樹、荒木　令江、吉沢　明康、田畑　剛、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
+
++  jPOST: タンパク質発現絶対量sliceの開発
+!!!!*松本　雅記、高見　知代、守屋　勇樹、河野　信、奥田　修二郎、渡辺　由、山本　格、小林　大樹、荒木　令江、吉沢　明康、田畑　剛、杉山　直幸、田中　聡、五斗　進、石濱　泰
+!!!!トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
+
++ TogoVar（日本版変異統合DB）の開発
+!!!!*三橋　信孝、片山　俊明、川嶋　実苗、川島　秀一、宮崎　和典、河野　信、建石　由佳、藤原　豊史
+!!!!トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
+
++ Controlling false discovery rates on large-scale proteome datasets in jPOST
+  + *Yasuhi Ishihama, Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Yuki Moriya, Shin Kawano, Shujiro Okuda, Yu Watanabe, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Naoyuki Sugiyama, Satoshi Tanaka, and Susumu Goto
+  + 16th Human Proteome Organization World Congress,  17-21 September 2017, Dublin (Ireland) [Oral]
+
++ OmicsDI RDF
+  + *Shin Kawano, Yasset Perez Riverol, Tobias Ternent, Yuki Moriya, Eric Deutsch, Michel Dumontier, Juan Antonio Vizcaino, Henning Hermjakob, and Susumu Goto
+  + 16th Human Proteome Organization World Congress,  17-21 September 2017, Dublin (Ireland) [Poster]
+
++ jPOST provides a global public data repository for a wide variety of proteomics experiments
+  + *Yu Watanabe, Shujiro Okuda, Yuki Moriya, Shin Kawano, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Naoyuki Sugiyama, Satoshi Tanaka, Susumu Goto, and Yasushi Ishihama
+  + 16th Human Proteome Organization World Congress,  17-21 September 2017, Dublin (Ireland) [Poster]
+
++ Reducing false positive identifications for proteome datasets accumulated in jPOST repository
+  + *Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Yuki Moriya, Shin Kawano, Shujiro Okuda, Yu Watanabe, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Naoyuki Sugiyama, Satoshi Tanaka, Susumu Goto, and Yasushi Ishihama
+  + 16th Human Proteome Organization World Congress,  17-21 September 2017, Dublin (Ireland) [Poster]
+
++ Development of integrated proteomics database: jPOST
+  + *Yuki Moriya, Shin Kawano, Shujiro Okuda, Yu Watanabe, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Naoyuki Sugiyama, Satoshi Tanaka, Susumu Goto, and Yasushi Ishihama
+  + 16th Human Proteome Organization World Congress,  17-21 September 2017, Dublin (Ireland) [Poster]
+
++ プロテオームデータの標準化とデータベースの世界動向
+  + *河野　信
+  + 日本プロテオーム学会2017年大会、2017.7.26-28、ホテル阪急エキスポパーク（大阪） [口頭]
+
+###
 
 
 
