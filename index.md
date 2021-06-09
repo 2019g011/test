@@ -409,7 +409,7 @@
   + *Shin Kawano, Tsumomu Watanabe, Sohei Mizuguchi, Norie Araki, Toshiaki Katayama, Atsuko Yamaguchi
   + HUPO 11th Annual World Congress,  9-13 September 2012, Boston (USA) [Poster]
 
-+  An integrated proteomics by iPEACH, a new application, identified novel activated signal cascades in chemotherapy resistant malignant gliomas
++ An integrated proteomics by iPEACH, a new application, identified novel activated signal cascades in chemotherapy resistant malignant gliomas
   + *Norie Araki, Souhei Mizuguchi, Takashi Morikawa, Shin Kawano, Atsuko Yamaguchi, Daiki Kobayashi, Mio HIrayama, Uichi Midorikawa, Hideo Nakamura, Junichi Kuratsu
   + HUPO 11th Annual World Congress,  9-13 September 2012, Boston (USA) [Poster]
 
