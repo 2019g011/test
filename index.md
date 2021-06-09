@@ -433,6 +433,321 @@
   + Masaki Kato, Shin Kawano, Kiyoko F. Aoki-Kinoshita, Shujiro Okuda, *Hiromichi Sawaki, Daisuke Sugahara, Toshihide Shikanai, and Issaku Yamada
   + 3rd ACGG-DB meeting, 23-24 April 2012, Okinawa [Oral]
 
+### 2011年（*発表者）
++ ライフサイエンス分野のデータベース統合化：知の巡りの良い研究環境を目指して
+  + *河野　信
+  + 第6回メタボロームシンポジウム、2011.10.13-14、大阪　[口頭]
+
++ 統合検索プロトタイプの開発
+  + *河野　信，岡本　忍，川本　祥子
+  + トーゴーの日シンポジウム2011、2011.10.5、東京　[ポスター]
+
++ NBDC/DBCLS BioHackathon 2011 開催報告
+  + NBDC/DBCLS BioHackathon 2011 オーガナイザ(岡本　忍，片山　俊明，狩野　芳伸，川島　秀一，河野　信，金　進東，呉　紅艶，*山口　敦子，山本　泰智，王　悦)
+  + トーゴーの日シンポジウム2011、2011.10.5、東京　[ポスター]
+
++ ライフサイエンス分野のデータベース統合～知のめぐりの良い研究環境を目指して～
+  + *河野　信
+  + 熊本大学医学部セミナー、2011.8.8、熊本　[口頭]
+
++ 相互運用性の高いデータベースの構築法
+  + *河野　信
+  + 日本プロテオーム学会2011年大会/日本ヒトプロテオーム機構第9回大会、2011.7.28-29、新潟　[教育セミナー]
+
++ Enterobacter sp. CJF002 株におけるバクテリアセルロース合成の解析
+  + *砂川　直輝、細田　真梨子、田島　健次、河野　信、Min Yao、佐藤　康治、大利　徹
+  + セルロース学会第18回年次大会、2011.7.14-15、長野　[ポスター]
+
++ 酢酸菌への (1→3)-b-グルカン繊維分泌能付与の試み
+  + *中川　理、玉元　遊、河野　信、田島　健次、横田　慎吾、近藤　哲男
+  + セルロース学会第18回年次大会、2011.7.14-15、長野　[ポスター]
+
++ (1→3)-b-グルカン合成に関与する遺伝子の導入による酢酸菌の形質転換
+  + *中川　理、玉元　遊、河野　信、田島　健次、横田　慎吾、近藤　哲男
+  + 第48回化学関連支部合同九州大会、2011.7.9、北九州　[ポスター]
+
++ [[統合データベース|http://lifesciencedb.jp/]]
+  + *河野　信
+  + 第1回[[GlycoInfo Symposium|http://www.rings.t.soka.ac.jp/symposium/]]、[[ライフサイエンス統合データベースセンター|http://dbcls.rois.ac.jp/]]、2011.2.25、東京　[シンポジウム]
+
+### 2010年（*発表者）
++ Genome Context of Cellulose Biosynthesis Related Gene Families
+  + *河野　信、吉沢　明康
+  + 第33回日本分子生物学会年会　第83回日本生化学会大会　合同大会 (BMB2010)、2010.12.7-10、神戸　[ポスター]
+
++ [[統合データベースの教育・人材育成活動|http://togodb.dbcls.jp/godosymposium2010/show/52]]～[[統合TV|http://togotv.dbcls.jp/]]と[[MotDB|http://motdb.dbcls.jp/]]～
+  + *河野　信、小野　浩雅、坊農　秀雅
+  + シンポジウム 「[[ライフサイエンスの未来～10年先のデータベースを考える～|http://symposium.lifesciencedb.jp/godo/]]」、2010.10.5、東京　[ポスター]
+
++ [[データ・情報の円滑な利用に向けた権利関係の整理の試み|http://togodb.dbcls.jp/godosymposium2010/show/54]]
+  + *箕輪　真理、��祖　歩美、中尾　光輝、河野　信、八塚　茂、畠中　秀樹、川本　祥子、永井　啓一、大久保　公策、高木　利久
+  + シンポジウム 「[[ライフサイエンスの未来～10年先のデータベースを考える～|http://symposium.lifesciencedb.jp/godo/]]」、2010.10.5、東京　[ポスター]
+
++ セルロース合成関連遺伝子群のゲノムコンテキスト解析
+  + *河野　信、橋本　浩介、吉沢　明康
+  + セルロース学会第17回年次大会、2010.7.15-16、さぬき　[ポスター]
+
+### 2009年（*発表者）
++ ライフサイエンス統合データベース：アップデート2009
+  + *河野　信、LSDB開発スタッフ、大久保　公策、高木　利久
+  + 第32回日本分子生物学会年会、2009.12.9-12、横浜　[[[ポスター|http://dbcls.rois.ac.jp/~kawano/pdf/MBSJ2009_kawano.pdf]]]
+
++ ヤムシで見つかったキチン合成酵素遺伝子ホモログ
+  + *原　正人、木村　聡、渡邊　宇外、河野　信、後藤　太一郎
+  + 第23回キチン・キトサンシンポジウム、2009.8.20-21、佐賀　[ポスター]
+
++ 多糖類（生合成）研究まとめサイト：[[polysaccharide.org|http://www.polysaccharide.org/]]
+  + *河野　信
+  + セルロース学会第16回年次大会、2009.7.2-3、札幌　[ポスター]
+
++ 酢酸菌セルロース合成におけるターミナルコンプレックスの解析
+  + *砂川　直輝、Song Qing Hu、Yong Gui Gao、田島　健次、Min Yao、依田　貴範、志村　大輔、河野　信、佐藤　康治、田中　勲、棟方　正信
+  + セルロース学会第16回年次大会、2009.7.2-3、札幌　[ポスター]
+
++ 酢酸菌への(1→3)-β-グルカン合成能の導入
+  + *玉元　遊、富田　陽子、河野　信、田島　健次、棟方　正信、近藤　哲男
+  + セルロース学会第16回年次大会、2009.7.2-3、札幌　[ポスター]
+
++ [[統合データベース講習会AJACS|http://togodb.dbcls.jp/symposium2009/show/91]] 
+  + 統合データベースセンター　教育・人材育成チーム
+  + 統合データベースプロジェクトシンポジウム 、2009.6.12、東京　[ポスター]
+
++ [[統合TV - 動画によるバイオデータベースとウェブツールの活用法解説サイト|http://togodb.dbcls.jp/symposium2009/show/92]]
+  + *小野　浩雅，河野　信，大村　蓉子，山口　瑶子，千葉　温子，橋本　拓也，横山　貴央，川本　祥子，高木　利久，坊農　秀雅
+  + 統合データベースプロジェクトシンポジウム 、2009.6.12、東京　[ポスター]
+
++ [[BioHackathon 2009 レポート|http://togodb.dbcls.jp/symposium2009/show/78]]
+  + *中尾光輝，BioHackathon 2009 実行委員会
+  + 統合データベースプロジェクトシンポジウム 、2009.6.12、東京　[ポスター]
+
++ 統合データベースポータル「統合ホームページ」 lifesciencedb.jp
+  + *仲里　猛留、坂東　明日佳、坊農　秀雅、全　弘宇、藤枝　香、畠中　秀樹、平井　信一、川本　祥子、河野　信、��祖　歩美、熊谷　禎洋、箕輪　真理、三橋　信孝、永井　啓一、中尾　光輝、西川　哲夫、岡本　忍、小野　浩雅、大内田　賢太、谷口　仁、山口　敦子、山本　泰智、八塚　茂、大久保　公策、高木　利久
+  + 日本分子生物学会第9回春期シンポジウム、2009.5.11-12、宮崎　[ポスター]
+
++ 酢酸菌セルロース合成におけるAxCesDの機能解析
+  + 砂川　直輝、Hu Song Qing、Gao Yong Gui、*田島　健次、Min Yao、依田　貴範、志村　大輔、河野　信、佐藤　康治、田中　勲、棟方　正信
+  + 日本農芸化学会2009年度大会、2009.3.27-29、福岡　[ポスター]
+
+### 2008年（*発表者）
++ ライフサイエンス統合データベースポータル lifesciencedb.jp
+  + *河野　信、坊農　秀雅、全　弘宇、藤枝　香、川本　祥子、高祖　歩美、箕輪　真理、三橋　信孝、永井　啓一、仲里　猛留、西川　哲夫、大野　忠、小野　浩雅、山口　敦子、山本　泰智、八塚　茂、大久保　公策、高木　利久
+  + 第31回日本分子生物学会年会　第81回日本生化学会大会　合同大会 (BMB2008)、2008.12.9-12、神戸　[ポスター] {{attach_anchor_string('PDF','BMB2008.pdf')}}
+
++ 統合TV -  動画によるバイオデータベースとウェブツールの活用法解説サイト
+  + *小野　浩雅、河野　信、大村　蓉子、山口　瑤子、竹若　浩一、川本　祥子、高木　利久、坊農　秀雅
+  + 第31回日本分子生物学会年会　第81回日本生化学会大会　合同大会 (BMB2008)、2008.12.9-12、神戸　[ポスター]
+
++ Life Science Database Portal Site: lifesciencedb.jp
+  + *Shin Kawano, Hidemasa Bono, Shoko Kawamoto, Kousaku Okubo, and Toshihisa Takagi
+  + The 19th International Conference on Genome Informatics (GIW2008), 1 - 3 December 2008, Gold Coast (Australia) [Poster] {{attach_anchor_string('PDF','GIW2008.pdf')}}
+
++ 生命科学データの共有に向けた「統合データベースプロジェクト」の試み
+  + *箕輪　真理、坊農　秀雅、全　弘宇、藤枝　香、川本　祥子、河野　信、��祖　歩美、熊谷　禎洋、三橋　信孝、永井　啓一、仲里　猛留、西川　哲夫、大村　蓉子、大野　忠、小野　浩雅、山口　敦子、山口　瑤子、山本　泰智、八塚　茂、横山　貴央、大久保　公策、高木　利久
+  + 情報・システム研究機構シンポジウム　情報とシステム2008、2008.11.5、東京　[ポスター]
+
++ ライフサイエンス統合データベースプロジェクト
+  + 坊農　秀雅、全　弘宇、藤枝　香、川本　祥子、河野　信、高祖　歩美、峰崎　雄一、箕輪　真理、三橋　信孝、永井　啓一、仲里　猛留、西川　哲夫、大野　忠、小野　浩雅、山口　敦子、山本　泰智、八塚　茂、大久保　公策、*高木　利久
+  + 第28回日本糖質学会年会、2008.8.18-20、つくば　[シンポジウム]
+
++ 統合TV: 動画によるデータベースの使い方講座
+  + *河野　信
+  + 日本進化学会第10回年次大会、2008.8.22-24、東京 [シンポジウム]
+
++ ゲノム決定済み生物種からの多糖類生合成酵素の網羅的抽出
+  + *河野　信、吉沢　明康、橋本　浩介、高木　利久
+  + セルロース学会第15回年次大会、2008.7.10-11、京都 [ポスター]
+
++ 酢酸菌セルロース生合成におけるAxCesDの機能
+  + *砂川　直輝、Song-Qing Hu、Yong-Gui Gao、田島　健次、Min Yao、依田　貴範、志村　大輔、佐藤　康治、河野　信、田中　勲、棟方　正信
+  + セルロース学会第15回年次大会、2008.7.10-11、京都 [ポスター]
+
++ (1→3)-β-グルカン合成系の導入による酢酸菌の形質転換の試み
+  + *玉元　遊、富田　陽子、河野　信、近藤　哲男
+  + 第45回化学関連支部合同九州大会、2008.7.5、北九州 [ポスター]
+
++ ライフサイエンス統合データベースポータル lifesciencedb.jp
+  + *河野　信、坊農　秀雅、全　弘宇、藤枝　香、川本　祥子、高祖　歩美、峰崎　雄一、箕輪　真理、三橋　信孝、永井　啓一、仲里　猛留、西川　哲夫、大野　忠、小野　浩雅、山口　敦子、山本　泰智、八塚　茂、大久保　公策、高木　利久
+  + 日本分子生物学会第8回春期シンポジウム、2008.5.26-27、札幌 [ポスター]
+  + [[Biotechnology Japanの記事|http://biotech.nikkeibp.co.jp/bionewsn/detail.jsp?id=20053343]]
+
++ 統合データベースセンターの紹介
+  + *河野　信
+  + 第37回人工知能学会分子生物情報研究会(SIG-MBI)・第9回オープンバイオ研究会、2008.3.7-8、能美 [口頭]
+
+### 2007年（*発表者）
++ [[TogoTV - a broadcast station of tutorial movies about bioinformatics resources|http://togotv.dbcls.jp/20071219.html]]
+  + *Shin Kawano, Hiromoasa Ono, Hidemasa Bono, Shoko Kawamoto, and Toshihisa Takagi
+  + 2007年日本バイオインフォマティクス学会年会 (JSBi2007)、2007.12.17-19、東京 [Oral&Poster]
+
++ ライフサイエンス統合データベースセンターにおけるデータベースポータル構築
+  + *河野　信、小野　浩雅、仲里　猛留、坊農　秀雅、岡本　忍、中村　保一、川本　祥子、大久保　公策、高木　利久
+  + 第30回日本分子生物学会年会　第80回日本生化学会大会　合同大会 (BMB2007)、2007.12.11-15、横浜　[ポスター]
+
++ ライフサイエンス統合データベースプロジェクトの課題と成果
+  + *川本　祥子、坊農　秀雅、池田　佳代子、河野　信、三橋　信孝、峰崎　雄一、永井　啓一、西川　哲夫、小野　浩雅、山口　敦子、山本　泰智、大久保　公策、高木　利久
+  + 第30回日本分子生物学会年会　第80回日本生化学会大会　合同大会 (BMB2007)、2007.12.11-15、横浜　[ポスター]
+
++ YUZ: an environment for integration AND ANALYSIS of gene regulatory networks
+  + *Hidemasa U Bono, Shin Kawano, Shoko Kawamoto, and Toshihisa Takagi
+  + GENOME INFORMATICS, 1-5 November 2007, New York (USA) [Poster]
+
++ Regulation of endoglucanase gene (cmcax) expression in Acetobacter xylinum
+  + *Shin Kawano, Kenji Tajima, Hiroyuki Kono, Yukari Numata, Hitomi Yamashita, Yasuharu Satoh, and Masanobu Munekata
+  + International Cellulose Conference 2007 (ICC2007), 22-25 October 2007, Tokyo [Poster]
+
++ Structural characterization of AxCesD from Acetobacter xylinum
+  + *Kenji Tajima, Daisuke Shimura, Song Ging Hu, Yong Gui Gao, Min Yao, Takanori Yoda, Naoki Sunagawa, Yasuharu Satoh, Shin Kawano, Isao Tanaka, and Masanobu Munekata
+  + International Cellulose Conference 2007 (ICC2007), 22-25 October 2007, Tokyo [Poster]
+
++ An approach to decifer gene regulatory networks from the federation of databases in life science
+  + *Hidemasa U Bono, Shin Kawano, Shoko Kawamoto, and Toshihisa Takagi
+  + FUNCTIONAL GENOMICS & SYSTEMS BIOLOGY, 10-13 October 2007, Hinxton (UK) [Poster]
+
+### 2006年（*発表者）
++ 酢酸菌セルロース合成酵素オペロン上流に存在する遺伝子の機能
+  + 依田　貴範、酒井　麻衣子、河野　信、安武　義晃、*田島　健次、姚　閔、佐藤　康治、田中　勲、棟方　正信
+  + 日本分子生物学会2006フォーラム、2006.12.6-8、名古屋　[ポスター]
+
++ 糖転移酵素の反応情報と発現情報を利用した糖鎖構造予測
+  + *河野　信
+  + かずさDNA研究所　バイオインフォマティクスセミナー, 2006.9.1, 木更津 [口頭]
+
++ Prediction of glycan structures from gene expression data based on glycosyltransferase reactions
+  + *Shin Kawano, Kosuke Hashimoto, Takashi Miyama, Susumu Goto, and Minoru Kanehisa
+  + ESF-JSPS Follow-up Workshop on Functional Genomics: From the Bench to Bioinformatics, 6-11 March 2006, Kanagawa [Oral]
+
+### 2005年（*発表者）
++ レクチンおよび糖鎖抗体に認識される糖鎖構造モチーフの抽出
+  + *河野　信、橋本　浩介、五斗　進、金久　實
+  + 第28回日本分子生物学会年会、2005.12.7-10、福岡 [[[ポスター|http://dbcls.rois.ac.jp/~kawano/pdf/mb2005_web.pdf]]]
+
++ Prediction of glycan structures by combining DNA expression and mass data.
+  + *Shin Kawano, Kosuke Hashimoto, Kiyoko F. Aoki-Kinoshita, Susumu Goto, and Minoru Kanehisa
+  + Glycobiology 2005, 9-12 November, 2005, Boston (USA) [Poster]
+
++ A global representation of the carbohydrate structures: A tool for the analysis of glycan.
+  + *Kosuke Hashimoto, Shin Kawano, Susumu Goto, Kiyoko F. Aoki-Kinoshita, Masayuki Kawashima, and Minoru Kanehisa
+  + 5th International Workshop on Bioinformatics and Systems Biology (IBSB2005), 22-25 August, 2005, Berlin (Germany) [Oral]
+
++ 遺伝子発現情報と糖鎖構造マップを用いた糖鎖生合成経路の解析
+  + *河野　信、橋本　浩介、五斗　進、金久　實
+  + 第25回日本糖質学会年会、2005.7.20-22、大津 [ポスター]
+
++ 酢酸菌セルロース合成酵素オペロン上流に存在する遺伝子の機能
+  + *依田　貴範、田島　健次、河野　信、安武　義晃、佐藤　康治、姚　閔、田中　勲、棟方　正信
+  + セルロース学会第12回年次大会、2005.7.21-22、福岡 [ポスター]
+
+### 2004年（*発表者）
++ Functional Classification of Coiled-Coil Proteins in Multiple Genomes.
+  + *Akiyasu C. Yoshizawa, Shujiro Okuda, Yuki Moriya, Masumi Itoh, Toshiaki Katayama, Shin Kawano, Shinobu Okamoto, Shuichi Kawashima, and Minoru Kanehisa
+  + The 15th International Conference on Genome Informatics (GIW2004), 13-15 December 2004, Yokohama [Poster]
+
++ Global Tree of Known Carbohydrate Structures to Analyze Biosynthetic Pathways.
+  + *Kosuke Hashimoto, Shin Kawano, Yasushi Okuno, and Minoru Kanehisa
+  + The 15th International Conference on Genome Informatics (GIW2004), 13-15 December 2004, Yokohama [Poster]
+
++ Expression Analysis of Glycosyltransferase Genes in Human, Mouse, and Rat.
+  + *Takashi Miyama, Shin Kawano, and Minoru Kanehisa
+  + The 15th International Conference on Genome Informatics (GIW2004), 13-15 December 2004, Yokohama [Poster]
+
++ Genome Wide Profiling of Glycosyltransferases and Predicted Glycan Structures from Complete and Draft Eukaryote Genomes.
+  + *河野　信、吉沢　明康、五十嵐　芳暢、檜作　好之、金久　實
+  + 第27回日本分子生物学会年会、2004.12.8-11、神戸 [ポスター]
+
++ 生物種及び組織間における比較グライコーム解析
+  + *檜作　好之、山西　芳裕、河野　信、五斗　進、金久　實
+  + 第27回日本分子生物学会年会、2004.12.8-11、神戸 [ポスター]
+
++ Prediction of Glycan Structures from DNA Microarray Data.
+  + *Shin Kawano, Kosuke Hashimoto, Takashi Miyama, Susumu Goto, and Minoru Kanehisa
+  + US/Japan Glyco 2004, 17-20 November 2004, Honolulu, Hawaii (USA). [Poster]
+
++ 酢酸菌のセルロース合成におけるBcsD遺伝子の機能
+  + *志村　大輔、河野　信、田島　健次、藤原　政司、恵良田　知樹、棟方　正信、高井　光男
+  + セルロース学会第11回年次大会、2004.7.15-16、仙台 [ポスター]
+
++ Prediction of Glycan Structures from the Glycan Related Microarray Expression Profiles.
+  + *Shin Kawano, Yasushi Okuno, Kosuke Hashimoto, Takashi Miyama, Susumu Goto, and Minoru Kanehisa
+  + 4th International Workshop on Bioinformatics and Systems Biology (IBSB2004), May 31- June 3, 2004, Kyoto [Poster]
+
++ Comparative Genome Analysis of Glycan Transporters.
+  + *Yoshinobu Igarashi, Shin Kawano, Susumu Goto, and Minoru Kanehisa
+  + 4th International Workshop on Bioinformatics and Systems Biology (IBSB2004), May 31- June 3, 2004, Kyoto [Poster]
+
++ 糖鎖関連マイクロアレイ発現プロファイルからの糖鎖構造予測
+  + *河野　信
+  + 21世紀COEワークショップ、2004.1.13、京都 [口頭]
+
+### 2003年（*発表者）
++ Prediction of Glycan Structures from Glycosyltransferase Expression Profiles.
+  + *Shin Kawano, Yasushi Okuno, Kosuke Hashimoto, Harumi Yamamoto, Hiromu Takematsu, Yasunori Kozutsumi, Susumu Goto, and Minoru Kanehisa
+  + The 14th International Conference on Genome Informatics (GIW2003), 14 - 17 December 2003, Yokohama [Poster]
+
++ Glycoinformatics: Prediction of glycan structures based on enzymatic knowledge of glycosyltransferase reactions.
+  + *Shin Kawano, Yasushi Okuno, Susumu Goto, and Minoru Kanehisa
+  + ESF-JSPS Frontier Science Meeting for Young Researchers: Functional Genomics - from the bench to bioinformatics, 25 - 31 October 2003, San Feliu de Guixols (Spain). [Poster]
+  + BEST POSTER AWARD JSPS
+
++ 超高強度ゲルの創製[IV] 天然高分子を用いた超高強度ゲルの創製
+  + *中山　温、角五　彰、Jian Ping Gong、長田　義仁、河野　信、高井　光男、恵良田　知樹
+  + 第52回高分子学会討論会、2003.9.24-26、山口 [口頭]
+
++ 酢酸菌抽出蛋白質による糖転移反応
+  +*河野　信、田島　健次、山下　ひとみ、沼田　ゆかり、甲野　裕之、恵良田　知樹、高井　光男
+  + セルロース学会第10回年次大会、2003.7.17-18、大阪 [ポスター]
+
+### 2002年（*発表者）
++ Endogenous endo-beta-1,4-glucanase (CMCax) from Acetobacter xylinum is involved in cellulose synthesis.
+  + *Shin Kawano, Kenji Tajima, Hiroyuki Kono, Tomoki Erata, Masanobu Munekata, and Mitsuo Takai
+  + 1st International Cellulose Conference (ICC2002), 6-8 November 2002, Kyoto. [Poster]
+
++ Endogenous beta-1,4-glucanase (BglxA) from Acetobacter xylinum is involved in cellulose synthesis.
+  + *Kenji Tajima, Hitomi Yamashita, Katsutoshi Nakajima, Shin Kawano, Masashi Fujiwara, Tomoki Erata, Masanobu Munekata, and Mitsuo Takai
+  + 1st International Cellulose Conference (ICC2002), 6-8 November 2002, Kyoto. [Poster]
+
++ 酢酸菌ATCC23769株とATCC53582株間でのセルロース生合成能の比較
+  + *河野　信、上森　弓華子、田島　健次、山下　ひとみ、藤原　政司、恵良田　知樹、棟方　正信、高井　光男
+  + セルロース学会第9回年次大会、2002.7.11-12、長野 [ポスター]
+
++ 酢酸菌polyphosphate kinase (PPK)のセルロース合成への関与
+  + 斉藤　祐介、*田島　健次、河野　信、佐藤　康治、亀田　充史、中島　克敏、柴　肇一、藤原　政司、恵良田　知樹、棟方　正信、高井　光男
+  + セルロース学会第9回年次大会、2002.7.11-12、長野 [ポスター]
+
++ 酸菌セルロース生合成時におけるエンドグルカナーゼの必要性とその分布
+  + *河野　信、田島　健次、甲野　裕之、恵良田　知樹、高井　光男、高部　圭司、藤田　稔
+  + 第36回高分子学会北海道支部研究発表会、2002.2.7、札幌 [ポスター]
+
+### 2001年（*発表者）
++ 酢酸菌セルロース生合成時のエンドグルカナーゼ作用部位
+  + *河野　信、上森　弓華子、田島　健次、甲野　裕之、恵良田　知樹、高井　光男、高部　圭司、藤田　稔
+  + セルロース学会第8回年次大会、2001.7.13-14、津 [ポスター]
+
++ 酢酸菌ベータグルコシダーゼのセルロース合成における働き
+  + 山下　ひとみ、*田島　健次、中島　克敏、河野　信、甲野　裕之、柴　肇一、藤原　政司、恵良田　知樹、棟方　正信、高井　光男
+  + セルロース学会第8回年次大会、2001.7.13-14、津 [ポスター]
+
+### 2000年（*発表者）
++ セルロースの微生物合成と複合化による機能性の発現
+  + *高井　光男、田島　健次、河野　信
+  + 平成12年度日本生物工学会大会、2000.8.3-5、札幌 [シンポジウム]
+
++ 酢酸菌セルロース合成におけるエンドグルカナーゼの働き
+  + *河野　信、田島　健次、甲野　裕之、柴　肇一、藤原　政司、恵良田　知樹、棟方　正信、高  + 
+  + セルロース学会第7回年次大会、2000.7.13-14、東京 [ポスター]
+
++ 酢  + 酸菌ベータグルコシダーゼ遺伝子のクローニングとセルロース合成における働き
+  + *田島　健次、中島　克敏、河野　信、甲野　裕之、柴　肇一、藤原　政司、恵良田　知樹、棟方　正信、高井　光男
+  + セルロース学会第7回年次大会、2000.7.13-14、東京 [ポスター]
+
++ 酢酸菌セルロース生合成におけるセルラーゼの効果
+  + *河野　信、甲野　裕之、田島　健次、恵良田　知樹、高井　光男
+  + 日本化学会北海道支部2000年冬季研究発表会、2000.2.3-4、札幌 [口頭]
+
++ 
+
+
+
+
 
 
 
