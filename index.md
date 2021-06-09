@@ -223,3 +223,72 @@
 + Collecting Text Mining Resources for Glycobiology - an Application Case of [[PubAnnotation|http://pubannotation.dbcls.jp/]] and [[PubDictionaries|http://pubdictionary.dbcls.jp/]]
   + *Jin-Dong Kim, Toshihide Shikanai, Shujiro Okuda, Shin Kawano
   + Biocuration 2016, 10-14 April 2016, Geneva (Switzerland) [Oral/Poster]
+
++  [[jPOST|http://jpost.org/]]: プロテオーム解析ワークフローの標準化
+  + *守屋　勇樹、河野　信、奥田　修二郎、山本　格、松本　雅記、小林　大樹、荒木　令江、吉沢　明康、五斗　進、田畑　剛、杉山　直幸、石濱　泰
+  + BMB2015 第38回日本分子生物学会年会 第88回日本生化学会大会 合同大会、2015.12.1-4、神戸 [ポスター]
+
+
++ Transcriptional Start Site Database for Analyzing Transcriptional Consequences of Human SNVs
+  + *Yutaka Suzuki, Hiroyuki Wakaguri, Riu Yamashita, Shin Kawano, Katsuya Tsuchihara, Sumio Sugano, and Kenta Nakai
+  + IHEC 2015, 16-18 November 2015, Tokyo [Oral/Poster]
+
++ Search space reduction by utilizing known modification information for proteomic database search
+  + *Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Yuki Moriya, Shin Kawano, Susumu Goto,  and Yasushi Ishihama
+  + 生命医薬情報学連合大会2015年大会、2015.10.29-31、宇治 [ポスター]
+
++ [[jPOST|http://jpost.org/]]: Development of a high-quality proteome database
+  + *Yuki Moriya, Shin Kawano, Shujiro Okuda, Tadashi Yamamoto, Masaki Matsumoto, Daiki Kobayashi, Norie Araki, Akiyasu C. Yoshizawa, Susumu Goto, Tsuyoshi Tabata, Naoyuki Sugiyama, and Yasushi Ishihama
+  + 生命医薬情報学連合大会2015年大会、2015.10.29-31、宇治 [ポスター]
+
++ ヒトゲノム変異情報のRDF化
+  + *河野　信、山下　理宇、込山　悠介、鈴木　絢子、鈴木　穣、菅野　純夫
+  + トーゴーの日シンポジウム2015、2015.10.5-6、東京 [ポスター]
+
+
++ Global Alliance for Genomics and Health（GA4GH）全体会議（第3回）参加報告
+  + *箕輪　真理、片山　俊明、川嶋　実苗、河野　信、三橋　信孝
+  + トーゴーの日シンポジウム2015、2015.10.5-6、東京 [ポスター]
+
++ [jPOST|http://jpost.org/]] (Japan Proteome Standard Repository/Database)：プロテオーム・データの標準化と統合
+  + *守屋　勇樹、河野　信、奥田　修二郎、山本　格、松本　雅記、小林　大樹、荒木　令江、吉沢　明康、五斗　進、田畑　剛、杉山　直幸、石濱　泰
+  + トーゴーの日シンポジウム2015、2015.10.5-6、東京 [ポスター]
+
++ [[jPOST|http://jpost.org/]]: Development of Japan ProteOme STandard repository/database
+  + *Shin Kawano, Yuki Moriya, Shujiro Okuda, Tadashi Yamamoto, Masaki Matsumoto, Daiki Kobayashi, Norie Araki, Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Naoyuki Sugiyama, Susumu Goto, Yasushi Ishihama
+  + HUPO 14th Annual World Congress,  27-30 September 2015, Vancouver (Canada) [Poster]
+
++ Proteomics data analysis workflow for accumulated LCMS files in public database
+  + *Yasushi Ishihama, Tsuyoshi Tabata, Naoyuki Sugiyama, Susumu Goto, Norie Araki, Masaki Matsumoto, Shujiro Okuda, Shin Kawano
+  + HUPO 14th Annual World Congress,  27-30 September 2015, Vancouver (Canada) [Poster]
+
++ TogoTable: 表形式データにアノテーションを付加するウェブツール
+  + *河野　信、渡辺　敦、水口　惣平、荒木　令江、片山　俊明、山口　敦子
+  + 日本プロテオーム学会2015年大会、2015.7.23-24、熊本[ポスター]
+
++ 日本発の高品質プロテオームデータベース：[[jPOST|http://jpost.org/]]
+  + *守屋　勇樹、河野　信、奥田　修二郎、山本　格、松本　雅記、小林　大樹、荒木　令江、吉沢　明康、五斗　進、田畑　剛、杉山　直幸、石濱　泰
+  + 日本プロテオーム学会2015年大会、2015.7.23-24、熊本[ポスター]
+
++ 融合プロテオミクスの統合ソフトウェア iPEACH によるグリオーマ幹細胞の維持と分化に関わるネットワーク解析
+  + *山崎　義宗、荒木　令江、河野　信、吉沢　明康、南部　晶子、水口　惣平、小林　大樹、長山　慈、永井　美奈子、Silsirivanit Atit、佛淵　尚人
+  + 日本プロテオーム学会2015年大会、2015.7.23-24、熊本[ポスター]
+
++ Cellulose/Curdlan Nanocomposites from Gene-engineered Gluconacetobacter xylinus
+  + *Ju Fang、河野　信、田島　健次、近藤　哲男
+  + セルロース学会第22回年次大会、2015.7.9-10、札幌 [ポスター]
+
++ jPOST: Japan ProteOme STandard repository/database
+  + *Shin Kawano
+  + [[HUPO-PSI meeting 2015|http://www.psidev.info/content/hupo-psi-meeting-2015]], 13-15 April 2015, Seattle (USA) [Oral]
+
++ PRIDE to RDF project
+  + *Shin Kawano and Yasset Perez-Riverol
+  + [[HUPO-PSI meeting 2015|http://www.psidev.info/content/hupo-psi-meeting-2015]], 13-15 April 2015, Seattle (USA) [Oral]
+
+### 2014年（*発表者）
++ !Integration of Transcriptome Database, DBTSS, with Multi-Omics Data and Disease-associated Human Variations
+  + *鈴木　穣、河野　信、土原　一哉、菅野　純夫、中井　謙太
+  + 第37回日本分子生物学会年会、2014.11.25-27、横浜 [ワークショップ/ポスター]
+
+
