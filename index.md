@@ -912,12 +912,12 @@ ___
   + トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
 
 +  jPOST: タンパク質発現絶対量sliceの開発
-!!!!*松本　雅記、高見　知代、守屋　勇樹、河野　信、奥田　修二郎、渡辺　由、山本　格、小林　大樹、荒木　令江、吉沢　明康、田畑　剛、杉山　直幸、田中　聡、五斗　進、石濱　泰
-!!!!トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
+  + *松本　雅記、高見　知代、守屋　勇樹、河野　信、奥田　修二郎、渡辺　由、山本　格、小林　大樹、荒木　令江、吉沢　明康、田畑　剛、杉山　直幸、田中　聡、五斗　進、石濱　泰
+  + トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
 
 + TogoVar（日本版変異統合DB）の開発
-!!!!*三橋　信孝、片山　俊明、川嶋　実苗、川島　秀一、宮崎　和典、河野　信、建石　由佳、藤原　豊史
-!!!!トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
+  + *三橋　信孝、片山　俊明、川嶋　実苗、川島　秀一、宮崎　和典、河野　信、建石　由佳、藤原　豊史
+   + トーゴーの日シンポジウム2017、2017.10.4-5、東京大学弥生講堂、東京 [ポスター]
 
 + Controlling false discovery rates on large-scale proteome datasets in jPOST
   + *Yasuhi Ishihama, Akiyasu C. Yoshizawa, Tsuyoshi Tabata, Yuki Moriya, Shin Kawano, Shujiro Okuda, Yu Watanabe, Tadashi Yamamoto, Masaki Matsumoto, Tomoyo Takami, Daiki Kobayashi, Norie Araki, Naoyuki Sugiyama, Satoshi Tanaka, and Susumu Goto
