@@ -287,8 +287,50 @@
   + [[HUPO-PSI meeting 2015|http://www.psidev.info/content/hupo-psi-meeting-2015]], 13-15 April 2015, Seattle (USA) [Oral]
 
 ### 2014年（*発表者）
-+ !Integration of Transcriptome Database, DBTSS, with Multi-Omics Data and Disease-associated Human Variations
++ Integration of Transcriptome Database, DBTSS, with Multi-Omics Data and Disease-associated Human Variations
   + *鈴木　穣、河野　信、土原　一哉、菅野　純夫、中井　謙太
   + 第37回日本分子生物学会年会、2014.11.25-27、横浜 [ワークショップ/ポスター]
+
++ Concept of Japan Proteome Standard repository/database (jPOST)
+  + *Shin Kawano, Yasushi Ishihama, Tadashi Yamamoto, Shujiro Okuda, Takeshi Tomonaga, Masaki Matsumoto, Hirofumi Nakagami, Tadashi Kondo, Masaya Ono, Sumio Ohtsuki, and Norie Araki
+  + HUPO 13th Annual World Congress,  5-8 October 2014, Madrid (Spain) [Poster]
+
++ マルチオミックスデータと疾患関連変異に関する統合トランスクリプトームデータベース（DBTSS）
+  + 鈴木　穣、*若栗　浩幸、河野　信、土原　一哉、菅野　純夫
+  + トーゴーの日シンポジウム2014、2014.10.5、東京 [ポスター]
+
++ セマンティックウェブを指向した国際標準化糖鎖線形表記法
+  + 田中　健一、木下　聖子、小寺　正明、澤木　弘道、土屋　伸一郎、藤田　典昭、鹿内　俊秀、加藤　雅樹、河野　信、*山田　一作、成松　久
+  + 第３回生命医薬情報学連合大会（IIBMP2014）、2014.10.2-4、仙台 [ポスター]
+
++ 糖鎖構造表記法の国際標準化
+  + *山田　一作、田中　健一、木下　聖子、小寺　正明、澤木　弘道、土屋　伸一郎、松原　正陽、藤田　典昭、鹿内　俊秀、加藤　雅樹、河野　信、成松　久
+  + 第33回日本糖質学会年会、2014.8.10-12、名古屋 [口頭]
+
++ GlycoRDF: 糖鎖オントロジーによる糖鎖関連データのRDF化
+  + Rene Ranzinger、木下　聖子、Matthew P. Campbell、河野　信、Thomas Lutteke、奥田　修二郎、*新町　大輔、鹿内　俊秀、澤木　弘道、Philip Toukach、松原　正陽、山田　一作、成松　久
+  + 第33回日本糖質学会年会、2014.8.10-12、名古屋 [ポスター]
+
++ プロテオミクスデータの標準化とデータベース
+  + *河野　信
+  + 日本プロテオーム学会2014年大会、2014.7.17-18、つくば [教育セミナー]
+
++ jPOST: Japan ProteOme STandard repository/database
+  + Norie Araki, Sumio Ohtsuki, Yasushi Ishihama, Takeshi Tomonaga, Hirofumi Nakagami, Tadashi Kondo, Masaya Ono, Masaki Matsumoto, Tadashi Yamamoto, Shujiro Okuda, Shin Kawano, Toshifusa Toda, Hisashi Hirano, Hisashi Narimatsu
+  + 日本プロテオーム学会2014年大会、2014.7.17-18、つくば [ポスター]
+
++ Curdlan/Cellulose Composites Excreted by Gene Transformed Gluconacetobacter xylinus
+  + *方 駒、河野　信、田島　健次、近藤　哲男
+  + セルロース学会第21回年次大会、2014.7.17-18、鹿児島 [ポスター]
+
++ jPOST: Japan ProteOme STandard repository/database
+  + *Shin Kawano
+  + [[ProteomeXchange|http://www.proteomexchange.org/]] meeting 2014, 16-17 April 2014, Frankfurt (Germany) [Oral]
+
++ [[TogoTable|http://togotable.dbcls.jp/]]：RDFを利用したアプリケーション
+  + *河野　信
+  + 理研・糖鎖インフォマティクス若手の会合同セミナー、2014.2.12、和光 [口頭]
+
++ 
 
 
