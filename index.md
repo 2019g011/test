@@ -331,6 +331,110 @@
   + *河野　信
   + 理研・糖鎖インフォマティクス若手の会合同セミナー、2014.2.12、和光 [口頭]
 
-+ 
+### 2013年（*発表者）
++ [[TogoTable|http://togotable.dbcls.jp/]] update 2013：セマンティック・ウェブを利用したテーブル形式データへの自動アノテーション付加ツール
+  + *河野　信、渡辺　敦、山口　敦子
+  + 第36回日本分子生物学会年会、2013.12.3-6、神戸 [ポスター]
+
++ [[TogoTable|http://togotable.dbcls.jp/]] update 2013
+  + *河野　信、渡辺　敦、山口　敦子
+  + トーゴーの日シンポジウム2013、2013.10.4-5、東京 [ポスター]
+
++ iPEACH: integrated Protein/gene Expression Analysis CHart
+  + *Shin Kawano, Akiyasu C. Yoshizawa, Sohei Mizuguchi, and Norie Araki
+  + HUPO 12th Annual World Congress,  14-18 September 2013, Yokohama [Poster]
+
++ Integrated proteomics identified novel activation of dynein IC2-GR-COX-1 signaling by suppression of NF1 tumor suppressor gene product, neurofibromin, in neuronal cells
+  + *Daiki Kobayashi, Mio Hirayama, Souhei Mizuguchi, Takashi Morikawa, Megumi Nagayama, Uichi Midorikawa, Masayo Wilson-Morifuji, Akiko Nambu-Niibori, Akiyasu C. Yoshizawa, Shin Kawano, and Norie Araki
+  + HUPO 12th Annual World Congress,  14-18 September 2013, Yokohama [Poster]
+
++ An Integrated Proteomics for Extracting Molecular Target of Malignant Gliomas
+  + *Norie Araki, Takashi Morikawa, Souhei Mizuguchi, Daiki Kobayashi, Akiko Niibori Nambu, Uichi Midorikawa, Mio Hirayama, Masayo Morifuji Wilson, Shin Kawano, Hideo Nakamura, and Junichi Kuratsu
+  + HUPO 12th Annual World Congress,  14-18 September 2013, Yokohama [Poster]
+
++ 融合プロテオミクスによる神経線維腫症1型（NF1）病態モデル細胞内の活性化シグナルDynein IC2-GR-COX-1経路の同定（Integrated proteomics identified a novel signaling activated by suppression of NF1 tumor suppressor gene, dynein IC2-GR-COX-1, in neuronal cells）
+  + *小林　大樹、平山　未央、水口　惣平、森川　崇、長山　慈、緑川　宇一、ウィルソン-森藤　政代、南部-新堀　晶子、吉沢　明康、河野　信、荒木　令江
+  + 第86回日本生化学会大会、2013.9.11-13、横浜 [口頭]
+
++ アグロバクテリウム由来のカードラン合成遺伝子の酢酸菌への導入の試み
+  + *Fang Ju、中川　理、河野　信、田島　健次、近藤　哲男
+  + セルロース学会第20回年次大会、2013.7.18-19、宇治 [ポスター]
+
++ Database Integration Activities in Japan
+  + *Shin Kawano
+  + [[ProteomeXchange|http://www.proteomexchange.org/]] meeting 2013, 18-19 April 2013, Liverpool (UK) [Oral]
+
++ Database Integration toward Semantic Web: Developments and Applications of RDF databases
+  + *Shin Kawano
+  + HUPO-PSI meeting 2013, 15-17 April 2013, Liverpool (UK) [Oral]
+
++ プロテオームデータベースの現状と今後の課題
+  + *河野　信
+  + 第1回JHUPOサテライトシンポジウム、2013.1.18、京都 [口頭]
+
+### 2012年（*発表者）
++ TogoTable: RDF技術を利用したテーブル形式データへの自動アノテーション付加ツール
+  + *河野　信、渡辺　敦、水口　惣平、荒木　令江、片山　俊明、山口　敦子
+  + 第35回分子生物学会年会、2012.12.11-14、福岡 [ポスター]
+
++ Cellulose production by Enterobacter sp. CJF-002 and identification of genes for cellulose biosynthesis
+  + *Naoki Sunagawa, Kenji Tajima, Mariko Hosoda, Shin Kawano, Ryota Kose, Yasuharu Satoh, Min Yao, and Tohru Dairi
+  + 3rd International Cellulose Conference (ICC2012),  10-12 October 2012, Sapporo [Poster]
+
++ CcpAx is a new member of terminal complex in Acetobacter xylinum
+  + *Naoki Sunagawa, Takaaki Fujiwara, Takanori Yoda, Shin Kawano, Yasuharu Satoh, Min Yao, Kenji Tajima, and Tohru Dairi
+  + 3rd International Cellulose Conference (ICC2012),  10-12 October 2012, Sapporo [Poster]
+
++ TogoTable: RDF技術を利用したテーブル形式データへの自動アノテーション付加ツール
+  + *河野　信、渡辺　敦、水口　惣平、荒木　令江、片山　俊明、山口　敦子
+  + トーゴーの日シンポジウム2012、2012.10.5、東京 [ポスター]
+
++ NBDC/DBCLS BioHackathon 2012 報告
+  + NBDC/DBCLS BioHackathon オーガナイザ（*山口　敦子、岡本　忍、川島　秀一、河野　信、金　進東、呉　紅艶、山本　泰智、王　悦、片山　俊明）
+  + トーゴーの日シンポジウム2012、2012.10.5、東京 [ポスター]
+
++ 日本糖鎖科学コンソーシアム・データベース（JCGGDB）
+  + 鹿内　俊秀、梶　裕之、鈴木　芳典、藤田　典昭、前田　真砂子、文　紅玲、石崎　円、澤木　弘道、奥田　修二郎、鴨　さおり、中尾　広美、石水　毅、川嵜　伸子、川嵜　敏祐、山田　一作、本庄　秀之、森　昌子、弘瀬　友理子、水野　真盛、加藤　雅樹、菅　秋次、山口　芳樹、木下　聖子、河野　信、成松　久
+  + トーゴーの日シンポジウム2012、2012.10.5、東京 [ポスター]
+
++ 糖鎖データの標準化に向けた試み
+  + Matthew Campbell、藤田　典昭、加藤　雅樹、*河野　信、木下　聖子、Thomas Lutteke、成松　久、奥田　修二郎、Rene Ranzinger、澤木　弘道、鹿内　俊秀、鈴木　芳典、Philip V. Toukach、山田　一作
+  + 第31回日本糖質学会年会、2012.9.17-20、鹿児島 [口頭]
+ 
++ JCGGDBの活動報告
+  + *鹿内　俊秀、梶　裕之、鈴木　芳典、藤田　典昭、前田　真砂子、文　紅玲、石崎　円、澤木　弘道、奥田　修二郎、鴨　さおり、中尾　広美、石水　毅、川嵜　伸子、川嵜　敏祐、山田　一作、本庄　秀之、森　昌子、弘瀬　友里子、水野　真盛、加藤　雅樹、菅　秋次、山口　芳樹、木下　聖子、河野　信、成松　久
+  + 第31回日本糖質学会年会、2012.9.17-20、鹿児島 [口頭]
+
++ TogoTable: semi-automated annotation tool for proteomics experimental data
+  + *Shin Kawano, Tsumomu Watanabe, Sohei Mizuguchi, Norie Araki, Toshiaki Katayama, Atsuko Yamaguchi
+  + HUPO 11th Annual World Congress,  9-13 September 2012, Boston (USA) [Poster]
+
++  An integrated proteomics by iPEACH, a new application, identified novel activated signal cascades in chemotherapy resistant malignant gliomas
+  + *Norie Araki, Souhei Mizuguchi, Takashi Morikawa, Shin Kawano, Atsuko Yamaguchi, Daiki Kobayashi, Mio HIrayama, Uichi Midorikawa, Hideo Nakamura, Junichi Kuratsu
+  + HUPO 11th Annual World Congress,  9-13 September 2012, Boston (USA) [Poster]
+
++ BioHackathon Activities
+  + *Shin Kawano
+  + Glyco-team’s Preparatory Meeting for BioHackathon 2012,  31 August 2012, Tsukuba [Oral]
+
++ Technology development of database integration to make re-use of public biological data
+  + Hiromasa Ono, Shin Kawano, Yuki Naito, Tazro Ohta, Takeru Nakazato, and *Hidemasa Bono
+  + 20th Annual International Conference on Intelligent Systems for Molecular Biology (ISMB2012),  15-17 July 2012, California (USA) [Poster]
+
++ RDF技術を利用したデータベース統合
+  + *河野　信
+  + 熊本大学拠点形成研究Bセミナー、2012.6.28、熊本　[口頭]
+
++ Database Integration toward Semantic Web: Development of Ontologies and RDF databases
+  + *Shin Kawano and *Jin-Dong Kim
+  + 3rd ACGG-DB meeting, 23-24 April 2012, Okinawa [Oral]
+
++ Effort for Semantic Web of Glycoscience in Japan
+  + Masaki Kato, Shin Kawano, Kiyoko F. Aoki-Kinoshita, Shujiro Okuda, *Hiromichi Sawaki, Daisuke Sugahara, Toshihide Shikanai, and Issaku Yamada
+  + 3rd ACGG-DB meeting, 23-24 April 2012, Okinawa [Oral]
+
+
+
+
 
 
